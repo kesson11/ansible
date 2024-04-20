@@ -1,4 +1,5 @@
 # Домашнее задание к занятию 2 «Работа с Playbook»
+Oписание playbook:
 
 ## Clickhouse+Vector Ansible-playbook
 
