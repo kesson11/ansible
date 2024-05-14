@@ -5,4 +5,4 @@
 [HW2](./08-ansible-02-playbook)
 
 # Домашнее задание к занятию 3 «Использование Ansible»
-[HW2](./08-ansible-03)
+[HW3](./08-ansible-03)
