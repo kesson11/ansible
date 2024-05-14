@@ -1,0 +1,10 @@
+[sources.docker]
+type = "docker_logs"
+
+[sinks.clickhouse]
+type = "clickhouse"
+inputs = ["docker"]
+endpoint = "http://centos7-1:8123"
+database = "logs"
+table = "docker_logs"
+skip_unknown_fields = true

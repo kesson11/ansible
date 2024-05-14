@@ -1,0 +1,3 @@
+---
+lighthouse_repo: "git@github.com:VKCOM/lighthouse.git"
+lighthouse_root: "/opt/lighthouse"
