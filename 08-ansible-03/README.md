@@ -1,11 +1,11 @@
 # Домашнее задание к занятию 3 
 Oписание playbook:
 
-## Clickhouse+Vector Ansible-playbook
+## Clickhouse+Vector+Lighthouse Ansible-playbook
 
 Clickhouse & vector & lighthouse setup
 
-## Clickhouse&Vector Versions
+## Versions
 
 * Clickhouse version: 22.3.3.44
 * Vector version: 0.36.0
